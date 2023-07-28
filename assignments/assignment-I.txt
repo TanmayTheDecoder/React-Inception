@@ -1,0 +1,24 @@
+1.what's emmet?
+Ans => Emmet uses different abbreviations and arguments bases on what we passed and dynamically converts it into the full code.  
+
+2.What's the difference between library and framework?
+Ans => Frameworks contains pre-written codes which are used for development of software and applications.
+Rather then Library is same but it's used for performing certain tasks.
+
+3.What's CDN and why we use it?
+Ans => CDN is group of geographically distributed servers which speeds up the process of delivering web contents to users by bringing them closer to the users where they are.
+
+4.Why react is called as react?
+Ans => React is one of many libraries and it's completely frontend and specializes in things that the user interacts with when they're using a website. This could be buttons, search bars and menus. “And it's called React because it reacts.
+
+5.What is crossorigin in script tag?
+Ans => The crossorigin attribute sets the mode of the request to an HTTP CORS(Cross Origin Resource Sharing) Request. Web pages often make requests to load resources on other servers. Here is where CORS comes in. A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+6.What is diference between React and ReactDOM?
+Ans => The React is a javascript library meanwhile reactdom is the dom which is handled by react itself.
+
+7.What is difference between react.development.js and react.production.js files via CDN?
+Ans => React Production contains minification and compression of data and code files but in development mode not such processes are done. That's why performance of production mode is more stable and faster but in development mode performance is slower then compared to performance mode but you can perform such operations to increase performance.
+
+8.What is async and defer? 
+Ans => In async keyword fetching of script code happens along with parsing of html as soon as the script is fully fetched html parsing is stopped until the script is fully loaded on browser then html parsing continuous. But in defer keyword html parsing doesn't stop whether scripts are being loaded or not. if scripts are being loaded it will simultaneously proceeds along with html parsing.
